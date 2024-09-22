@@ -1,5 +1,7 @@
 # CodePath
 
+![image](https://github.com/user-attachments/assets/03069365-c2af-4eb9-9730-c54452a2264c)
+
 <h2><b>Problem 1: Hundred Acre Wood</b></h2>
 <b>Write a function welcome() that prints the string "Welcome to The Hundred Acre Wood!".</b>
 <pre>
