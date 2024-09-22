@@ -1,7 +1,6 @@
 # CodePath
 
-<TR>
-	<td>![image](https://github.com/user-attachments/assets/03069365-c2af-4eb9-9730-c54452a2264c)</td>
+![image](https://github.com/user-attachments/assets/03069365-c2af-4eb9-9730-c54452a2264c)
 	<td>![image](https://github.com/user-attachments/assets/4ce66a97-1941-4b6d-8e7f-6f3d8fe942d4)</td>
 	<td>![image](https://github.com/user-attachments/assets/e9ce7d48-b6ce-4518-b749-4bc0d69072cf)</td>
 	<td>![image](https://github.com/user-attachments/assets/16342d9b-34e9-4a42-8d35-422eec2dfdb9)</td>
