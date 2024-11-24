@@ -1,5 +1,5 @@
 
-#Problem 7: Check if a Signal Occurs as a Prefix in Any Transmission. py
+#Problem 7: Check if a Signal Occurs as a Prefix in Any Transmission
 
 def is_prefix_of_signal(transmission, searchSignal):
     str_list = transmission.split()
